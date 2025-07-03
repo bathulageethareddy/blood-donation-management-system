@@ -62,3 +62,31 @@ A full-stack web application designed to streamline and automate the process of 
 
 ## 📁 Project Structure (Example)
 
+blood-donation-system/
+│
+├── server.js
+├── package.json
+├── /routes
+├── /controllers
+├── /models
+├── /public
+│ ├── /css
+│ ├── /js
+│ └── /images
+├── /views
+└── README.md
+
+
+---
+
+## 🙌 Contribution
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+
