@@ -2,7 +2,7 @@
 
 A full-stack web application designed to streamline and automate the process of blood donation. It efficiently connects **donors**, **receivers**, and **administrators** in a secure and user-friendly environment.
 
----
+
 
 ## 🔧 Features
 
@@ -37,7 +37,6 @@ A full-stack web application designed to streamline and automate the process of 
 - Secure login/signup for all users
 - Role-based access and password hashing
 
----
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +48,7 @@ A full-stack web application designed to streamline and automate the process of 
 | Version Control | Git, GitHub     |
 | APIs       | RESTful Routes         |
 
----
+
 
 ## 🚀 Future Enhancements
 
@@ -58,7 +57,7 @@ A full-stack web application designed to streamline and automate the process of 
 - Mobile Responsive Design
 - Hospital/Blood Bank integration
 
----
+
 
 ## 📁 Project Structure (Example)
 
@@ -77,13 +76,13 @@ blood-donation-system/
 └── README.md
 
 
----
+
 
 ## 🙌 Contribution
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
----
+
 
 ## 📜 License
 
